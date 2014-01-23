@@ -18,3 +18,8 @@ Truth Table:
 
 
 Yes, Truth table matches simulation.
+
+
+#Explanation
+My waveform is correct because not only does it match my truth table but it also coincide with the 2's complement
+I went through each roll of the truth table to ensure that two's complement was correctly annotated in the truth table. thus if the truth table matches the waveform, the wave form must be correct. All of the schematics are also simplified. 
