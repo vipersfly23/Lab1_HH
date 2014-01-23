@@ -39,10 +39,14 @@ entity Lab1_HH_Module is
 end Lab1_HH_Module;
 
 architecture Behavioral of Lab1_HH_Module is
-
+signal G,H,I: STD_LOGIC;
 begin
+G<= (not A and B);
+H<= (not A and C);
+I<= (A and not B and not C);
 
-D <= (not A and not B and C) or (not A and B) or (A and not B and not C);
+
+D <= G or H or I;
 E<= (not B and C )or (B and not C);
 F<= C;
 
