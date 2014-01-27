@@ -41,12 +41,12 @@ ARCHITECTURE behavior OF Lab1_HH_TestBench IS
  
     COMPONENT Lab1_HH_Module
     PORT(
-         A : IN  std_logic;
-         B : IN  std_logic;
-         C : IN  std_logic;
-         D : OUT  std_logic;
-         E : OUT  std_logic;
-         F : OUT  std_logic
+         A : IN  std_logic; --MSB input
+         B : IN  std_logic; -- Center Bit of the 3 bit input
+         C : IN  std_logic; --LSB of 3 input
+         D : OUT  std_logic; --output 1
+         E : OUT  std_logic; --Output 2 
+         F : OUT  std_logic -- Output 3
         );
     END COMPONENT;
     
