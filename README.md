@@ -25,6 +25,7 @@ My waveform is correct because not only does it match my truth table but it also
 I went through each roll of the truth table to ensure that two's complement was correctly annotated in the truth table. thus if the truth table matches the waveform, the wave form must be correct. All of the schematics are also simplified.
 
 ## Demos:
+
 -Notebook was checked by instructor.
 -3-bit solution checked by instructor
 -8-but soltion checked by instructor.
