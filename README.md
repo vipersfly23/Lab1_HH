@@ -7,17 +7,26 @@ For Lab 1 ECE 281
 ![alt text](https://github.com/vipersfly23/Lab1_HH/blob/master/Sim_Screen_Shot.GIF?raw=true "simulation result")
 
 Minimal SOP Equation:
+
 A = Input
+
 B = Input
+
 C = Input
+
 D = Output
+
 E = Output
+
 F = Output
 
 
  **These are the Minimal SOP equation**
+ 
 D = (not A)(B) + (not A)(C) + A(not B)(not C)
+
 E = (not B)(C) + (B)(not C)
+
 F = C
 
 
