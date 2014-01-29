@@ -75,7 +75,9 @@ I went through each roll of the truth table to ensure that two's complement was 
   
 ##Other requirements 
 .UCF file is in the repository
+
 VHDL file is in the repository
+
 TestBench is in the repository
 
 
