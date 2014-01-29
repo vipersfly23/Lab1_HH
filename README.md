@@ -10,17 +10,17 @@ Minimal SOP Equation:
 A = Input
 B = Input
 C = Input
-D = Signal
-E = Signal
-F = Signal
-G = Output
+D = Output
+E = Output
+F = Output
+
 
  **These are the Minimal SOP equation**
 D = (not A)(B) + (not A)(C) + A(not B)(not C)
 E = (not B)(C) + (B)(not C)
 F = C
 
-G = D + E + F;
+
 
 
 
@@ -73,6 +73,10 @@ I went through each roll of the truth table to ensure that two's complement was 
 -Final Schematic
   No schematic required
   
+##Other requirements 
+.UCF file is in the repository
+VHDL file is in the repository
+TestBench is in the repository
 
 
 
