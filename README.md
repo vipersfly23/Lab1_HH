@@ -53,11 +53,11 @@ I went through each roll of the truth table to ensure that two's complement was 
 
 ## Demos:
 
--Notebook was checked by instructor.
+- Notebook was checked by instructor.
 
--3-bit solution checked by instructor
+- 3-bit solution checked by instructor
 
--8-bit soltion checked by instructor.
+- 8-bit soltion checked by instructor.
 
 **Everything complied with**
 
@@ -68,18 +68,18 @@ I went through each roll of the truth table to ensure that two's complement was 
 - Testing
   Results were great. The result matched the truth table, and worked according to the schematics. Simulation worked was a success and the implementation of the program ran smoothly with the exception of the debugging previosly mentioned. The programed implemented the 2's complement of a 3-bit binary number using a structural type implementation. The program worked, and was checked off by the instructor.
 
--Final Schematic 
+- Final Schematic 
   Looks exactly like the schematic previously provided.
   
 ##In-Lab 8-bit
 
--Debugging
+- Debugging
   Learning how to use STD_LOGIC_VECTOR was the hardest pseudo debugging. After learning how to use it, it took one line of coding and the program worked perfectly.
   
--Testing
+- Testing
   Compared it to the 2's complement of various 8-bit numbers and every single one was correct. No simulation was conducted because a truthtable wasn't required for the implementation, since a structural coding was used. The inverse of the 8-bit was taken, and 1 was added to the number. The fundamental arithmitic of 2's complement was applied. The result worked, and was verified by the instructor to ensure functionality of the program.
   
--Final Schematic
+- Final Schematic
   No schematic required
   
 ##Other requirements 
