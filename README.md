@@ -83,7 +83,7 @@ I went through each roll of the truth table to ensure that two's complement was 
   No schematic required
   
 ##Other requirements 
-[.UCF file](../Vipersfly23/Lab1_HH)
+[.UCF file](../blob/master/Lab1_HH.ucf)
 
 
 VHDL file is in the repository
