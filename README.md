@@ -85,10 +85,10 @@ I went through each roll of the truth table to ensure that two's complement was 
 ##Other requirements 
 [.UCF file](https://github.com/vipersfly23/Lab1_HH/blob/master/Lab1_HH.ucf)
 
+[VHDL file](https://github.com/vipersfly23/Lab1_HH/blob/master/Lab1_HH_Module.vhd)
 
-VHDL file is in the repository
+[Testbench file](https://github.com/vipersfly23/Lab1_HH/blob/master/Lab1_HH_TestBench.vhd)
 
-TestBench is in the repository
 
 
 
